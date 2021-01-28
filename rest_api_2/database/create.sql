@@ -1,3 +1,5 @@
+create dababase blog;
+
 create schema blog;
 
 create table blog.post (
